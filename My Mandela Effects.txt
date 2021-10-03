@@ -40,6 +40,7 @@ The Adjustment Bureau (2011) - https://www.imdb.com/title/tt1385826
 The Butterfly Effect (2004) - https://www.imdb.com/title/tt0289879
 The Cloverfield Paradox (2018) - https://www.imdb.com/title/tt2548396
 The Last Mimzy (2007) - https://www.imdb.com/title/tt0768212 - references to Mandala and Alice in the Wonderland (the rabbit, who was always late, for the very important date)
+The Truman Show (1998) - https://www.imdb.com/title/tt0120382 - "We accept the reality of the world with which we are presented."
 They Live (1988) - https://www.imdb.com/title/tt0096256
 Tomorrowland (2015) - https://www.imdb.com/title/tt1964418
 Yesterday (2019) - https://www.imdb.com/title/tt8079248
@@ -182,6 +183,7 @@ Walt Disney -> removed Tinkerbell in the intro :(
 
 Movies
 
+48 Hrs (1982) -> 48 Hrs.
 Atlantis: Milo's Return (2003) -> A replaced with Lambda
 Atlantis: The Lost Empire (2001) -> A replaced with Lambda
 Birds (1963) -> The Birds
@@ -206,13 +208,16 @@ Names
 
 Adolph Hitler -> Adolf Hitler
 Alex Baldwin -> Alec Rae Baldwin
+Bastian's mother's name -> Moon Child
 Buggs Bunny -> Bugs Bunny
+Dalailama -> Dalai Lama
 Dan Akroyd -> Dan Aykroyd
 Domain Name Server -> Domain Name System
 Drug Enforcement Agency -> Drug Enforcement Administration
 Hatchiko -> Hachiko
 Liam Nielson -> Liam Neelson -> Liam Neeson
 Mahatma Ghandi -> Mahatma Gandhi
+Mallware -> Malware (the original term used by myself over the years, rofl)
 Manhatten -> Manhattan 
 mother Theresa - mother Teresa
 National Aeronautics and Space Agency -> National Aeronautics and Space Administration
@@ -229,7 +234,8 @@ Quotes (original)
 
 Apollo 13 (April 13th, 1970) <- Houston, we have a problem! - Never said in this verse
 Crocodile Dundee (1986) <- That is not a knife... This is a knife! - https://youtu.be/W09ghiWskUk
-Oliver Twist (2005) <- Please sir, may I have some more? - https://youtu.be/BbdNgbCOq_s?t=32 / Conflicts - https://youtu.be/fz5ol3GgCas / https://youtu.be/qp6fwjwlBOA / https://youtu.be/K7S2PzRuZGM
+Hippocratic Oath <- First, do no harm. - Never part of the Hippocratic Oath, not now anyway
+Oliver Twist (2005) <- Please sir, may I have some more? - https://youtu.be/BbdNgbCOq_s?t=32 / Conflicts - https://youtu.be/fz5ol3GgCas / https://youtu.be/qp6fwjwlBOA / https://youtu.be/K7S2PzRuZGM
 Scary Movie (2000) <- I can see white people! - https://youtu.be/AHZw09PoIU0 / https://youtu.be/QUYKSWQmkrg
 The Matrix (1999) <- What if I told you, everything you have been lead to believe, is a lie? - Never said in this verse
 They Live (1988) <- I have come here to kick ass and chew bubblegum and I am all out bubblegum. - https://youtu.be/s1TcnQxV4BE
@@ -248,6 +254,7 @@ Karate Kid's headband -> Red Rising Sun to Black/Blue Flower
 Knight Rider -> KITT moved from the center to the left
 Justice's blindfold -> gone
 Justice's book -> replaced with a sword
+Mars -> polar ice caps and water in general
 Mary Poppins Hat -> added ridiculous flowers
 Michelangelo’s statue of Moses in Rome -> added hornes
 Mona Lisa's emotionless face -> smirk -> smile -> her eyes looking to her left
@@ -285,11 +292,13 @@ earings -> earrings
 etc -> etc.
 flouride -> fluoride (used to be flor in my language, now fluor)
 looser -> loser
+luck out -> positive now (used to be ran out of luck)
 stratit -> ztratit (Czech)
 suprise -> surprise
 theral -> thoroughful
 tounge -> tongue
 ussualy -> usually
+vakum -> vakuum (Slovak, changed to vaccume in English)
 vengence -> vengeance
 vs -> vs. (Alien vs. Predator)
 werid -> weird
