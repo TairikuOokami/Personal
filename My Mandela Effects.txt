@@ -152,6 +152,7 @@ Tartary -> country larger than Russia existed from the middle ages to the mid 18
 
 Human Physiology
 
+Hearth -> Heart
 Hearth -> left to the middle
 Hearth pulse -> moved from the middle of the wrist under the thumb
 Intestines -> way too many changes
@@ -287,12 +288,14 @@ Thinker statue -> a hand to the jaw -> an opened hand -> a new haircut -> suckin
 Tom and Jerry -> Tom has yellow eyes
 Uncle Sam's Hat -> removed red stripes
 WTC Towers -> apparently had white/grey stripes -> had an antenna -> white/grey stripes faded away, now had a black row on the top -> Marriott Hotel
+Yellow US Taxi -> turned to red like in the movie Collateral, they even both say so: I am gonna have to stick this yellow cab up your fat a**!
 
 Words
 
 algorythm -> algorithm
 alltogether -> altogether
 allways -> always
+authentificator -> authenticator
 comand -> command
 earings -> earrings
 etc -> etc.
@@ -301,6 +304,7 @@ looser -> loser
 luck out -> positive now (used to be ran out of luck)
 pyjama -> pajama
 stratit -> ztratit (Czech)
+sumise -> surmise
 suprise -> surprise
 theral -> thoroughful
 tounge -> tongue
@@ -309,6 +313,9 @@ vakum -> vakuum (Slovak, changed to vaccume in English)
 vengence -> vengeance
 vs -> vs. (Alien vs. Predator)
 werid -> weird
+
+Windows 11 22H2 (KB5030310) build 22621.2361 update actually addressed one ME.
+This update changes the spelling of Ukraine's capital from Kiev to Kyiv.
 ____________________________________________________________________
 
 Once ME becomes generally accepted, the truth will be revealed, till then, ME will only shows us the door, but we have to choose to go through.
